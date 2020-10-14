@@ -92,6 +92,7 @@ namespace GradeBook{
             return result;
 
         }
+        //1111
         private List<double> grades;
 
         public string Name{
@@ -100,7 +101,7 @@ namespace GradeBook{
         }
         // public string Name //These two properties are the same
         // {
-        //     get
+        //     get 111
         //     {
         //         return name;
         //     }
