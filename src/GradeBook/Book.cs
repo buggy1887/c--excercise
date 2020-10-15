@@ -92,7 +92,6 @@ namespace GradeBook{
             return result;
 
         }
-        //1111
         private List<double> grades;
 
         public string Name{

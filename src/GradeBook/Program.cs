@@ -10,7 +10,7 @@ namespace GradeBook
             var book = new Book("Arman's Grade Book");
 
 
-          //  var done = false;
+          //  var done = false; //my solution
             while(true)
             {
                 Console.WriteLine("Enter the grade or enter letter 'q' to quit");
@@ -19,7 +19,7 @@ namespace GradeBook
                 if (input == "q")
                 {
                     break;
-                    //       done = true;
+                    //       done = true;//my solution
                 }
                 try
                 {
